@@ -1,10 +1,10 @@
 SRC = $(wildcard notebooks/*.ipynb)
 
-all: lightdlf docs
+all: privai docs
 
-lightdlf: $(SRC)
+privai: $(SRC)
 	nbdev_build_lib
-	touch lightdlf
+	touch privai
 
 docs: $(SRC)
 	nbdev_build_docs

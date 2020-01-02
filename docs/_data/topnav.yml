@@ -2,7 +2,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/sgaseretto/lightdlf
+      external_url: https://github.com/sgaseretto/privai
 
 #Topnav dropdowns
 topnav_dropdowns:
