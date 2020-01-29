@@ -1,5 +1,6 @@
 {
   "privai": {
-    "Overview": "/"
+    "Overview": "/",
+    "Differential Privacy": "/01-differential-privacy"
   }
 }
